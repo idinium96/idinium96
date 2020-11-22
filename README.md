@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently owning **[TF2Autobot](https://github.com/idinium96/tf2autobot)**
-- 🌱 I’m currently still learning **TypeScript* and **JavaScript**
+- 🌱 I’m currently still learning **TypeScript** and **JavaScript**
 - 📫 How to reach me: **TF2Autobot Discord Server** (https://discord.gg/ZrVT7mc)
 
 <p>
