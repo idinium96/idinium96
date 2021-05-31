@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently owning **[TF2Autobot](https://github.com/idinium96/tf2autobot)**
 - 🌱 I’m currently still learning **TypeScript** and **JavaScript**
-- 📫 How to reach me: **TF2Autobot Discord Server** (https://discord.gg/D2GNnp7tv8)
+- 📫 How to reach me: **TF2Autobot Discord Server** (https://discord.gg/4k5tmMkXjB)
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=idinium96&show_icons=true&count_private=true" alt="GitHub stats" width="50%" />
