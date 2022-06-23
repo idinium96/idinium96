@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently owning **[TF2Autobot](https://github.com/idinium96/tf2autobot)**
+   - [autobot.tf](https://autobot.tf)
+   - [schema.autobot.tf](https://schema.autobot.tf)
 - 🌱 I’m currently still learning **TypeScript** and **JavaScript**
 - 📫 How to reach me: **TF2Autobot Discord Server** (https://discord.gg/4k5tmMkXjB)
 
