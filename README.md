@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently owning **[TF2Autobot](https://github.com/idinium96/tf2autobot)**
+- 🔭 I’m the owner of the **[TF2Autobot](https://github.com/idinium96/tf2autobot) organization**
    - [autobot.tf](https://autobot.tf)
    - [schema.autobot.tf](https://schema.autobot.tf)
 - 🌱 I’m currently still learning **TypeScript** and **JavaScript**
